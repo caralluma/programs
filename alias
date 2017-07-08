@@ -43,3 +43,6 @@ claer=cls
 clar=cls
 push=git push $*
 show=git log -n $*
+squash=git squash $*
+sq=git squash $*
+merge=git merge $*
